@@ -2,7 +2,8 @@
 
 Простая платформерная игра (прототип)
 
-Зависимости pip install pygame
+*Зависимости*
+`pip install pygame`
 
 Запуск python main.py
 
